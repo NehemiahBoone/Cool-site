@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+}
+
+.header{
+  background-color: rgb(62, 62, 160);
+  color: white;
+  text-align: center;
+  font-size: 36pt;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+}
+
+.main{
+  display: flex;
+}
+
+h1{
+  text-align: center;
+}
+
+.aside{
+  padding-left: 20em;
+}
+
+.main-article{
+  padding-left: 20em;
+}
+
+.article-title{
+  font-size: 23pt;
+  padding-left: 10em;
+}
+
+.article-text{
+  padding-left: 27em;
+}
+
+.aside-text{
+  font-size: 10pt;
+  margin-top: 6px;
+}
+
+#text-effect{
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:  rgb(62, 62, 160);
+}
