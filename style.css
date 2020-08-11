@@ -31,13 +31,14 @@ h1{
 
 .article-title{
   font-size: 23pt;
-  padding-left: 5em;
-  margin-top: 2em;
+  padding-left: 2em;
   font-weight: normal;
+  border-top: 18px solid lightblue;
+  margin-top: 35px;
 }
 
 .article-text{
-  padding-left: 15em;
+  padding-left: 13em;
 }
 
 .aside-text{
