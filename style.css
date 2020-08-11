@@ -10,6 +10,7 @@ body{
   border-style: solid;
   border-color: black;
   padding: 10px;
+  margin: 2px;
 }
 
 .main{
@@ -21,7 +22,7 @@ h1{
 }
 
 .aside{
-  padding-left: 20em;
+  padding-left: 10em;
 }
 
 .main-article{
@@ -30,16 +31,19 @@ h1{
 
 .article-title{
   font-size: 23pt;
-  padding-left: 10em;
+  padding-left: 5em;
+  margin-top: 2em;
+  font-weight: normal;
 }
 
 .article-text{
-  padding-left: 27em;
+  padding-left: 15em;
 }
 
 .aside-text{
   font-size: 10pt;
   margin-top: 6px;
+  padding-right: 5em;
 }
 
 #text-effect{
@@ -53,4 +57,12 @@ h1{
   bottom: 0;
   width: 100%;
   background-color:  rgb(62, 62, 160);
+  height: 175px;
+  border-style: solid;
+  border-color: black;
+  margin: 4px;
+}
+
+img{
+  padding-top: 4.5em;
 }
